@@ -1,2 +1,0 @@
-var a=(r=>(r.Primary="primary",r.Secondary="secondary",r.Additional="additional",r.Clear="clear",r.Icon="icon",r))(a||{}),d=(r=>(r.Small="sm",r.Medium="md",r))(d||{}),m=(r=>(r.Success="success",r.Error="error",r.Default="default",r))(m||{}),s=(r=>(r.Small="sm",r.Medium="md",r.Large="lg",r))(s||{}),l=(r=>(r.Small="sm",r.Medium="md",r))(l||{});export{a as B,d as a,l as b,m as c,s as d};
-//# sourceMappingURL=Enums-473b4e69.js.map
