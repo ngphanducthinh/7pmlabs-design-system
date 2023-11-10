@@ -1,1 +1,0 @@
-{"version":3,"file":"BLabel-e31bd763.js","sources":["../../src/constants/Common.ts"],"sourcesContent":["export const DateDelimiter = '/';\nexport const RequiredSymbol = '*';\n"],"names":["DateDelimiter","RequiredSymbol"],"mappings":"qGAAO,MAAMA,EAAgB,IAChBC,EAAiB"}
