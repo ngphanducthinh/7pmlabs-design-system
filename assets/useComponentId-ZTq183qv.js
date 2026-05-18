@@ -1,1 +1,0 @@
-import{n as e}from"./chunk-BneVvdWh.js";import{C as t,i as n,m as r}from"./iframe-BtDITyas.js";function i(){let e=t();return{componentUID:r(()=>e?.uid)}}var a=e((()=>{n()}));export{i as n,a as t};
