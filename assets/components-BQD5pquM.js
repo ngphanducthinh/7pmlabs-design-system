@@ -1,0 +1,1 @@
+import"./chunk-LITCR56V-Dm2IQDr2.js";import{it as e,rt as t}from"./components-DsCi1I_t.js";e();export{t as createCopyToClipboardFunction};
